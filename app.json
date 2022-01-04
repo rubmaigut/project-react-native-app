@@ -2,6 +2,7 @@
   "expo": {
     "name": "movie-react-app",
     "slug": "movie-react-app",
+    "owner": "rubmaigut",
     "privacy": "public",
     "sdkVersion": "44.0.0",
     "platforms": ["ios", "android", "web"],
